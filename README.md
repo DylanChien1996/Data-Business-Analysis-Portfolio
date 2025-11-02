@@ -8,28 +8,18 @@ I’m passionate about discovering insights from data, building clear visual sto
 
 ## 👨‍💻 About Me
 
-I enjoy turning raw datasets into meaningful insights that drive business impact.  
-My projects often combine **data cleaning, exploratory analysis, and dashboard reporting**, connecting technical analytics with real-world business understanding.
+I enjoy transforming raw data into actionable insights that drive better business outcomes.  
+My projects often integrate **data cleaning, exploratory analysis, and interactive dashboard design**, bridging the gap between analytical models and strategic business decisions.
 
-I have a background in **finance and business operations**, and I specialize in applying data-driven approaches to solve practical business problems.
+With a background in **finance and business operations**, I focus on connecting quantitative analysis with practical business understanding to generate meaningful insights.
 
 **Technical skills I use across my projects:**
-- 🐍 **Python** & 📊 **R** – data wrangling, modeling, and visualization  
-- 💾 **SQL** – querying, data cleaning, and integration  
+- 🐍 **Python** & 📊 **R** – data processing, modeling, and visualization  
+- 💾 **SQL** – data extraction, transformation, and integration  
 - 📈 **Excel** – analysis, KPI dashboards, and reporting  
-- 📊 **Power BI** & **Tableau** – interactive data visualization and storytelling  
+- 📊 **Power BI** & **Tableau** – interactive visualization and storytelling  
 
 You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/dylan-chien-868a03135/).
-
----
-
-## 📂 Featured Projects
-
-| Category | Project | Description |
-|-----------|----------|-------------|
-| 🛒 **Business Analytics** | [E-commerce Sales Analysis Project](./Ecommerce_Sales_Analysis_Project) | Built an end-to-end dashboard analyzing online sales trends, delivery performance, and customer satisfaction using SQL, Excel, and Power BI. |
-| 📉 **Market & Review Insights** | *(Coming Soon)* | Data storytelling project exploring customer sentiment and satisfaction through Tableau dashboards. |
-| ⚙️ **Process & Workflow Design** | *(Coming Soon)* | BPMN process model to streamline business operations and improve efficiency. |
 
 ---
 
@@ -48,9 +38,9 @@ You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/dylan-c
 ## 🎯 Portfolio Goals
 
 This repository is designed to:
-- Showcase my **data analytics and visualization projects**
+- Showcase my **data analytics and visualization work**
 - Demonstrate how I apply **technical tools to solve business problems**
-- Present **real-world, end-to-end analytics workflows**
+- Present **end-to-end analytical workflows** that connect data with decision-making
 
 ---
 
@@ -63,4 +53,5 @@ This repository is designed to:
 
 > “Turning data into clarity — and insights into action.”  
 > — Dylan Chien
+
 
