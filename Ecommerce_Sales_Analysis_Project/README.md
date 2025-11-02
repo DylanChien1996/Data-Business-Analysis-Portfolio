@@ -36,18 +36,6 @@ This project demonstrates an **end-to-end data analysis workflow**, from data ex
 
 ---
 
-## 📉 Dashboard Preview
-
-### Excel KPI Dashboard
-![Excel Dashboard Preview](https://github.com/DylanChien1996/E-commerce-Sales-Analysis-Dashboard/assets/preview_excel.png)
-
-### Power BI Dashboard
-![Power BI Dashboard Preview](https://github.com/DylanChien1996/E-commerce-Sales-Analysis-Dashboard/assets/preview_powerbi.png)
-
-> *If you wish to explore interactively, download the `.pbix` file and open it in Power BI Desktop.*
-
----
-
 ## 🧩 Data Model (Olist SQL Schema)
 The dataset is based on **Olist’s public e-commerce database**, containing order, customer, product, seller, and review information.
 
