@@ -1,0 +1,42 @@
+# 🌍 Global Hotel Review Analysis (2015–2017)
+
+### 🧠 Overview
+This project analyzes over **515,000 hotel reviews** from travelers around the world between **2015 and 2017**.  
+It integrates **Python**, **R**, and **Tableau** to uncover global patterns in **guest satisfaction**, **sentiment**, and **traveler behavior**.
+
+The analysis identifies key insights on:
+- Differences in hotel ratings across **nationalities**
+- Variation in **sentiment** across **traveler types** (e.g., business, couple, solo)
+- Long-term trends in **average hotel scores**
+- Global **rating distribution** visualized on an interactive world map
+
+---
+
+### 📊 Tableau Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
+🔗 *Tableau Workbook:* `Hotel Review Analysis Dashboard.twb`  
+This dashboard provides:
+1. **Top 10 Reviewer Nationalities** by average hotel rating  
+2. **Average Sentiment by Traveler Type** (text analysis based)  
+3. **Yearly Rating Trend (2015–2017)** across traveler categories  
+4. **World Map by Rating** – interactive visualization of satisfaction scores globally  
+5. **Key KPIs:**  
+   - Avg Reviewer Score → 8.4  
+   - Avg Sentiment → 0.49  
+   - Total Reviews → 515,738  
+   - Positive Sentiment → 76%
+
+---
+
+### ⚙️ Data & Methodology
+| Stage | Tool | Description |
+|-------|------|-------------|
+| 🧹 **Data Cleaning** | Python (Pandas) | Removed duplicates, standardized traveler types, extracted sentiment scores |
+| 🧮 **Sentiment Analysis** | Python (VADER) | Computed polarity values for each review text |
+| 📈 **Feature Validation** | R | Verified score distribution and reviewed statistical consistency |
+| 📊 **Visualization** | Tableau | Built KPI cards, multi-chart dashboard, and interactive map |
+
+---
+
+### 📂 File Structure
