@@ -5,6 +5,14 @@ The project integrates **Python, R, and Tableau** to analyze over **515K reviews
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
+> *Built in Tableau — featuring KPIs, global map, sentiment distribution, and traveler-type comparison.*
+
+---
+
 ## 📊 Project Overview
 
 This project demonstrates an **end-to-end analytics process** — from text data cleaning to visualization — focused on:
@@ -42,7 +50,7 @@ This project demonstrates an **end-to-end analytics process** — from text data
 | **Python (Pandas, VADER)** | Data cleaning and sentiment analysis |
 | **R (tidyverse, stats)** | Statistical validation (ANOVA & Tukey HSD) |
 | **Tableau Desktop** | Interactive KPI dashboard creation |
-| **Excel** | Data preparation and format checking |
+| **Excel** | Data preparation and verification |
 
 ---
 
@@ -63,4 +71,3 @@ Dataset cleaned and sampled for educational use.
 ---
 
 > _“Transforming raw reviews into meaningful global hospitality insights.”_
-
