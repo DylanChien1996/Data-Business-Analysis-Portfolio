@@ -59,12 +59,13 @@ Main objectives:
 
 ---
 
-## 📚 Data Notes
+## 📚 Data Source
 
-- **Time period:** 2015–2017  
-- Review data includes both **numerical ratings** and **sentiment scores** derived from text analysis.  
-- The Tableau dashboard allows dynamic filtering by **traveler type**, **year**, and **nationality**.  
-- `dashboard_preview.png` is used only as a static preview for GitHub display.
+The analysis is based on an open-access **Hotel Review Dataset (2015–2017)**,  
+containing guest reviews, ratings, and traveler metadata collected from multiple hotel platforms.
+
+📦 Dataset available on Kaggle:  
+🔗 [https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe)
 
 ---
 
