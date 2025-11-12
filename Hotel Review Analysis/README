@@ -1,104 +1,66 @@
-# 📊 Dylan Chien – Data & Business Analytics Portfolio
+# 🏨 Hotel Review Analysis Dashboard
 
-Welcome to my **Data & Business Analytics Portfolio**, showcasing end-to-end analytics projects integrating **data cleaning**, **statistical modeling**, and **visual storytelling** using tools like **Python, R, SQL, Tableau, Power BI, and Excel**.
-
-Each project follows a structured workflow:
-> Data → Cleaning & Transformation → Analysis → Visualization → Insights
+An analytical project exploring **global hotel guest reviews and satisfaction patterns (2015–2017)**.  
+The project integrates **Python, R, and Tableau** to analyze over **515K reviews** and uncover how traveler types, nationalities, and sentiments influence hotel ratings.
 
 ---
 
-## 🌍 Featured Projects
+## 📊 Project Overview
 
-### 🏨 [Global Hotel Review Analysis (2015–2017)](./Hotel%20Review%20Analysis)
-**Tools:** Python, R, Tableau  
-**Focus:** Text sentiment analysis & KPI-driven dashboard design  
-
-- Analyzed **515K+ hotel reviews** to uncover how ratings differ by nationality and traveler type.  
-- Performed **sentiment scoring** with VADER and validated group differences using ANOVA in R.  
-- Built an interactive Tableau dashboard showing:
-  - KPI cards (Avg Rating, Sentiment, Total Reviews, % Positive)
-  - Top 10 Reviewer Nationalities by Rating
-  - Sentiment by Traveler Type
-  - Yearly Rating Trend (2015–2017)
-  - World Map by Rating  
-- 📈 *Outcome:* Identified that **Couples gave the highest positive sentiment (52%)**, while **Business travelers rated lowest (~7.9–8.0)**.  
-
-📄 [View Project Files →](./Hotel%20Review%20Analysis)
+This project demonstrates an **end-to-end analytics process** — from text data cleaning to visualization — focused on:
+- Measuring global hotel satisfaction levels  
+- Comparing ratings across **traveler types** and **nationalities**  
+- Performing **sentiment analysis** on guest reviews  
+- Visualizing insights through an **interactive Tableau dashboard**
 
 ---
 
-### 🛒 [E-commerce Sales Analysis](./Ecommerce_Sales_Analysis_Project)
-**Tools:** SQL, Excel, Power BI  
-**Focus:** Business KPI tracking & performance visualization  
+## 📁 Files Included
 
-- Cleaned transactional data and designed sales metrics: revenue, quantity sold, and profit margins.  
-- Used SQL for regional aggregation and Power BI for dashboard automation.  
-- Highlighted **seasonal peaks** and **top-performing categories**, providing actionable business insights.
-
-📊 *Outcome:* Built a Power BI dashboard summarizing 3 years of e-commerce trends, with dynamic filters by product and region.  
-📄 [View Project Files →](./Ecommerce_Sales_Analysis_Project)
+| File | Description |
+|------|--------------|
+| `Hotel Review Analysis Dashboard.twb` | Tableau dashboard (visualization) |
+| `Hotel Review Analysis_py.ipynb` | Python script for cleaning & sentiment scoring |
+| `Hotel Review Analysis_R.R` | R script for ANOVA and Tukey post-hoc analysis |
+| `dashboard_preview.png` | Dashboard preview image for GitHub display |
 
 ---
 
-## 🧰 Technical Stack
+## 🧠 Key Insights
 
-| Category | Tools & Languages |
-|-----------|------------------|
-| **Programming** | Python (Pandas, NumPy, NLTK, Matplotlib), R (tidyverse, stats) |
-| **Data Visualization** | Tableau, Power BI, Excel (PivotTable, KPI Dashboard) |
-| **Database & Querying** | SQL (MySQL, SQLite) |
-| **Data Cleaning & Transformation** | Pandas, Excel Power Query |
-| **Machine Learning (Basic)** | Scikit-learn, Feature Selection (Mutual Info, Random Forest) |
-| **Version Control** | Git & GitHub |
-| **Documentation** | Markdown, LaTeX, APA-format reports |
+- 🌍 **Couple travelers** gave the highest sentiment scores (~52% positive)  
+- 💼 **Business travelers** rated hotels lowest (avg score ~7.9–8.0)  
+- 🗓️ Ratings remained stable between **8.2–8.5** from 2015–2017  
+- 💬 Global positive sentiment reached **76%**, reflecting generally strong guest satisfaction  
 
 ---
 
-## 📈 Methodology Framework
+## ⚙️ Tools Used
 
-Every project in this portfolio follows a **standardized analytics workflow**:
-
-| Stage | Description |
-|--------|-------------|
-| 1️⃣ Data Collection | Gather raw data (CSV, APIs, or public datasets) |
-| 2️⃣ Data Cleaning | Handle missing values, standardize formats |
-| 3️⃣ Feature Engineering | Generate additional variables for modeling |
-| 4️⃣ Statistical Analysis | Validate relationships and significance |
-| 5️⃣ Visualization | Build interactive dashboards and visuals |
-| 6️⃣ Insights & Reporting | Summarize findings in business context |
+| Tool | Purpose |
+|------|----------|
+| **Python (Pandas, VADER)** | Data cleaning and sentiment analysis |
+| **R (tidyverse, stats)** | Statistical validation (ANOVA & Tukey HSD) |
+| **Tableau Desktop** | Interactive KPI dashboard creation |
+| **Excel** | Data preparation and format checking |
 
 ---
 
-## 🧭 About Me
+## 📚 Data Source
 
-**Dylan Chien**  
+Kaggle – *Hotel Reviews Dataset (2015–2017)*  
+Dataset cleaned and sampled for educational use.
+
+---
+
+## ✨ Author
+
+**Dylan Chien (Vincent)**  
 🎓 M.Sc. in Advanced Analytics – Big Data  
-📍 Based in Warsaw, Poland | Originally from Taiwan  
-
-I’m passionate about transforming data into meaningful stories — blending **analytical rigor** with **business intuition**.  
-My background spans financial operations, data analytics, and dashboard automation.
-
-- 💼 Former Industry & Business Specialist (Taipei City Government)  
-- 📊 Experienced in handling multi-source data (financial, sentiment, and behavioral)  
-- 💬 Trilingual: English, Mandarin, Polish (intermediate)  
+📍 Warsaw, Poland  
+🔗 [LinkedIn](https://www.linkedin.com/in/dylan-chien-868a03135) | [GitHub Portfolio](https://github.com/DylanChien1996)
 
 ---
 
-## 📬 Contact
+> _“Transforming raw reviews into meaningful global hospitality insights.”_
 
-| Channel | Link |
-|----------|------|
-| 💼 LinkedIn | [linkedin.com/in/dylan-chien-868a03135](https://www.linkedin.com/in/dylan-chien-868a03135/) |
-| 🧾 GitHub | [github.com/DylanChien1996](https://github.com/DylanChien1996) |
-| 📧 Email | *(available upon request)* |
-
----
-
-## ⚖️ License
-All code and materials are shared under the **MIT License** for educational and non-commercial use.  
-Please credit *Dylan Chien* when referencing this work.
-
----
-
-> _"Data tells stories — analytics brings them to life."_  
-> — **Dylan Chien**
