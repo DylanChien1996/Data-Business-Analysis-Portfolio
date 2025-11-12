@@ -63,11 +63,7 @@ Olist Public E-commerce Dataset (Kaggle):
 
 ## ✨ Author
 
-**Vincent Chien (DylanChien1996)**  
-🎓 M.Sc. in Advanced Analytics – Big Data  
-📍 SGH Warsaw School of Economics  
-🔗 [LinkedIn](https://www.linkedin.com/in/vincent-chien1996) | [GitHub Portfolio](https://github.com/DylanChien1996)
-
----
-
-> _“Turning data into actionable business insights through analytics and visualization.”_
+**Dylan Chien(DylanChien1996) **  
+🎓 B.Sc. in Business Analytics – Uniwersytet Marii Curie-Skłodowskiej (UMCS)
+📍 Lublin, Poland
+🔗 [LinkedIn](https://www.linkedin.com/in/dylan-chien-868a03135) | [GitHub Portfolio](https://github.com/DylanChien1996)
