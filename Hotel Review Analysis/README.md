@@ -9,7 +9,8 @@ It explores **guest ratings, sentiment, traveler types, and nationalities** to u
 
 ![Dashboard Preview](dashboard_preview.png)
 
-> *Built in Tableau — featuring KPIs, global map, sentiment by traveler type, and yearly rating trends.*
+> 🌐 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/HotelReviewAnalysisDashboard_17629704612250/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ---
 
