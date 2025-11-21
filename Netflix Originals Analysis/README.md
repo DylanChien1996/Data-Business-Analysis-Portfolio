@@ -44,7 +44,7 @@ Main objectives:
 - 🌎 **International** is the most common genre category  
 - 🇺🇸 **United States** remains the top content-producing country  
 - ⏱️ Average movie duration is **103.8 minutes**  
-- 📈 Netflix production surged sharply between **2016–2020** before stabilizing  
+- 📈 Netflix production surged sharply between **2005–2021** before stabilizing  
 - 👶 Teenagers prefer **Drama, International, Action**, while Kids favor **Animation & Kids/Family**  
 - 🌍 Global production is concentrated in **~15 key countries**
 
