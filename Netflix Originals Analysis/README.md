@@ -72,7 +72,7 @@ This dashboard is built using the publicly available **Netflix Movies and TV Sho
 
 ## ✨ Author
 
-**Dylan Chien (DylanChien1996)**  
-🎓 M.Sc. in Big Data Analytics – SGH Warsaw School of Economics  
-📍 Warsaw, Poland  
-🔗 https://www.linkedin.com/in/dylan-chien-868a03135 | https://github.com/DylanChien1996
+**Dylan Chien(DylanChien1996) **  
+🎓 B.Sc. in Business Analytics – Uniwersytet Marii Curie-Skłodowskiej (UMCS)
+📍 Lublin, Poland
+🔗 [LinkedIn](https://www.linkedin.com/in/dylan-chien-868a03135) | [GitHub Portfolio](https://github.com/DylanChien1996)
