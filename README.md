@@ -30,7 +30,6 @@ You can learn more about me on my [LinkedIn](https://www.linkedin.com/in/dylan-c
 | **Programming & Analysis** | Python, R |
 | **Database Management** | SQL, MySQL |
 | **Visualization & BI** | Power BI, Tableau, Excel |
-| **Data Modeling & Workflow** | BPMN, Bizagi Modeler |
 | **Version Control** | Git, GitHub |
 
 ---
