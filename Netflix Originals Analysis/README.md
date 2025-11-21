@@ -7,7 +7,7 @@ The dashboard explores **genre trends, audience age groups, movie vs. TV ratio, 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](NetflixAnalysis_Dashboard.png)
+![Dashboard Preview](Netflix_Analysis_Dashboard.png)
 
 ---
 
