@@ -73,6 +73,6 @@ This dashboard is built using the publicly available **Netflix Movies and TV Sho
 ## ✨ Author
 
 **Dylan Chien(DylanChien1996) **  
-🎓 B.Sc. in Business Analytics – Uniwersytet Marii Curie-Skłodowskiej (UMCS)
+🎓 B.A. in Business Analytics – Uniwersytet Marii Curie-Skłodowskiej (UMCS)
 📍 Lublin, Poland
 🔗 [LinkedIn](https://www.linkedin.com/in/dylan-chien-868a03135) | [GitHub Portfolio](https://github.com/DylanChien1996)
