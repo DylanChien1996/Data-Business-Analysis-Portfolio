@@ -41,7 +41,8 @@ The objective is to support budgeting, performance monitoring, and management de
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](CW Water – 2025 Sales Performance Screenshot.png)
+![Dashboard Preview](https://raw.githubusercontent.com/DylanChien1996/Data-Business-Analysis-Portfolio/main/CW_Water_Budget_Analysis_2025/CW%20Water%20%E2%80%93%202025%20Sales%20Performance%20Screenshot.png)
+
 
 ---
 
