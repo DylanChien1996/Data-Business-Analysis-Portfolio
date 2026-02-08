@@ -71,6 +71,8 @@ BTC-Real-Time-Price-Monitoring/
 ├── btc_dashboard.png    # Dashboard preview image
 └── README.md
 
+---
+
 ## 👤 Author
 Dylan Chien  
 [LinkedIn](https://www.linkedin.com/in/dylan-chien-868a03135/)
