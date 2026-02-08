@@ -70,3 +70,7 @@ BTC-Real-Time-Price-Monitoring/
 ├── BTC_analysis.pbix    # Power BI dashboard file
 ├── btc_dashboard.png    # Dashboard preview image
 └── README.md
+
+## 👤 Author
+Dylan Chien  
+[LinkedIn](https://www.linkedin.com/in/dylan-chien-868a03135/)
